@@ -1,3 +1,0 @@
-# taqwa
-
-Generated with ProjectScaffold

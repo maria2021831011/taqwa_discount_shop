@@ -1,0 +1,4 @@
+.header { background:#16a34a; color:white; padding:15px; display:flex; justify-content:space-between; }
+.logout { background:black; color:white; border:none; padding:6px 12px; }
+main { padding:20px; }
+.card { background:white; padding:15px; margin-bottom:15px; border-radius:8px; }
